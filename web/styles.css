@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: auto;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(178, 178, 255, 0.5)), url("images/background.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Montserrat;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.form-title {
+    margin-top: 100px;
+    text-transform: uppercase;
+
+}
+
+form {
+    margin-top: 50px;
+}
+
+.form-control {
+    width: 250px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid whitesmoke;
+    font-size: 15px;
+    margin-bottom: 16px;
+
+}
+
+input {
+    height: 50px;
+    color: white;
+}
+
+
+.form-submit {
+    border: 1px solid;
+    font-size: 16px;
+    height: 50px;
+    margin-top: 50px;
+    letter-spacing: 2px;
+}
+
